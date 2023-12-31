@@ -169,4 +169,5 @@ dist
 .pnp.\*
 
 
-/input
+2015/input.txt
+2022/input
