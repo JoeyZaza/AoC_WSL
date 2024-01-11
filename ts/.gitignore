@@ -168,6 +168,8 @@ dist
 .yarn/install-state.gz
 .pnp.\*
 
+2022/input
 
-ts/2015/input.txt
-ts/2022/input
+2015/input.txt
+
+
